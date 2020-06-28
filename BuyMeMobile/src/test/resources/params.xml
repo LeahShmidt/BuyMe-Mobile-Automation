@@ -1,0 +1,8 @@
+<config>
+
+    <appPackage>il.co.mintapp.buyme</appPackage>
+    <appActivity>il.co.mintapp.buyme.activities.common.SplashScreen</appActivity>
+    <path>C:\Users\lshmidt\Desktop</path>
+
+
+</config>
